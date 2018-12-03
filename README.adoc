@@ -1,5 +1,8 @@
 = ratpack-rx2
+
 Ratpack support for rxjava2
+
+### DEPRECATED - use https://github.com/ratpack/ratpack/tree/master/ratpack-rx2 ###
 
 image::https://travis-ci.org/drmaas/ratpack-rx2.svg?branch=master["Build Status", https://travis-ci.org/drmaas/ratpack-rx2]
 
